@@ -2,7 +2,7 @@
 
 **Computational Biologist integrating Data Science** — I build ML systems that make sense of messy biological and clinical data.
 
-I spent the last year at **S.N. Bose National Centre for Basic Sciences** designing end-to-end machine learning pipelines for cancer research, which led to a second-author publication in **Communications Biology (Nature Portfolio, 2025)**. Now I'm focused on applying that rigour to industry problems — clinical data, structured analytics, and decision-support systems.
+I spent the last year at **S.N. Bose National Centre for Basic Sciences** designing end-to-end machine learning pipelines for cancer research, which led to a peer-reviewed publication as second author in **Communications Biology (Nature Portfolio, 2025)**. Now I'm focused on applying that rigour to industry problems — clinical data, structured analytics, and decision-support systems.
 
 I care about work that is reproducible, well-documented, and pragmatically translated.
 
@@ -82,7 +82,7 @@ Workflow      Git · Jupyter · Linux · Excel (advanced)
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camellia%20Mazumder-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/camellia-mazumder-7b79681b9/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0005-7497-7214)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7497--7214-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0005-7497-7214)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Camellia%20Mazumder-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Camellia-Mazumder?ev=hdr_xprf)
 [![Email](https://img.shields.io/badge/Email-mazumder.camellia@gmail.com-D14836?style=flat&logo=gmail)](mailto:mazumder.camellia@gmail.com)
 
