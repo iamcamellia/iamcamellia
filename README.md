@@ -74,7 +74,7 @@ Workflow      Git · Jupyter · Linux · Excel (advanced)
 ## 🏅 Recognition
 
 - 🥉 **Chancellor's Award for Academic Excellence** — 3rd position, Dept. of Biotechnology, UEM Kolkata (2024)
-- 🧠 **Vice-Chancellor's Award for Best Scientific Mind** (2023)
+- 🧠 **Vice-Chancellor's Award for Best Scientific Mind** (2024,2023)
 - 🏆 **BioSpectrum Best Paper Presentation** (2022)
 
 ---
